@@ -8,8 +8,8 @@ Glyph Generator is not a fully fledged tool, it's a prototype made for [#PROCJAM
 [Link to executable Jar file](https://madequa.itch.io/glyph-generator)
 
 # Example Alphabets
-![](http://bmlourenco.com/public/images/glyph-generator/1.jpg)
-![](http://bmlourenco.com/public/images/glyph-generator/2.jpg)
+![](http://bmlourenco.com/portfolio/glyph-generator/images/gallery/1.jpg)
+![](http://bmlourenco.com/portfolio/glyph-generator/images/gallery/2.jpg)
 
 # License
 Licensed under the MIT license, see [LICENSE](https://github.com/MadEqua/glyph-generator/blob/master/LICENSE) for details.
